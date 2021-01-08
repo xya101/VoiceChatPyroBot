@@ -2,11 +2,11 @@
 from pyrogram import filters
 
 # Get these two from https://my.telegram.org
-API_ID = 1626242
-API_HASH = "c0de5b3edc5524437daf5bbdb3c0939d"
+API_ID = 2948141
+API_HASH = "6c7516ba8230f237f4daaa67cb28af13"
 
 # Get this from @Botfather
-TOKEN = "983775109:AAFYNqKzhAdexzODsDOmZw_bc5gaycKniPE"
+TOKEN = "1576553294:AAHAs4BZRfZ3cCDaWegvkgiodjby91EKWr8"
 
 # The IDs of the users which can stream, skip, pause and change volume
 SUDO_USERS = [
@@ -18,7 +18,7 @@ SUDO_USERS = [
 ]
 
 # The ID of the group where your bot streams
-GROUP = -1001268736347
+GROUP = -1001405939941
 
 # Users must join the group before using the bot (note: the bot should be admin in the group if you enable this)
 USERS_MUST_JOIN = False
